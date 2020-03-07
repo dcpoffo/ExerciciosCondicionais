@@ -1,0 +1,11 @@
+D:\SISTEMAS\C#\Apex\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.exe
+D:\SISTEMAS\C#\Apex\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.deps.json
+D:\SISTEMAS\C#\Apex\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.runtimeconfig.json
+D:\SISTEMAS\C#\Apex\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.runtimeconfig.dev.json
+D:\SISTEMAS\C#\Apex\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.dll
+D:\SISTEMAS\C#\Apex\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.pdb
+D:\SISTEMAS\C#\Apex\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.csprojAssemblyReference.cache
+D:\SISTEMAS\C#\Apex\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.AssemblyInfoInputs.cache
+D:\SISTEMAS\C#\Apex\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.AssemblyInfo.cs
+D:\SISTEMAS\C#\Apex\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.dll
+D:\SISTEMAS\C#\Apex\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.pdb
