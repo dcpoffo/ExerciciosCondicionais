@@ -9,3 +9,14 @@ D:\SISTEMAS\C#\Apex\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCond
 D:\SISTEMAS\C#\Apex\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.AssemblyInfo.cs
 D:\SISTEMAS\C#\Apex\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.dll
 D:\SISTEMAS\C#\Apex\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.pdb
+C:\Users\Clarify_Bnu06\Desktop\Darlan-C#\07-03\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.exe
+C:\Users\Clarify_Bnu06\Desktop\Darlan-C#\07-03\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.deps.json
+C:\Users\Clarify_Bnu06\Desktop\Darlan-C#\07-03\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.runtimeconfig.json
+C:\Users\Clarify_Bnu06\Desktop\Darlan-C#\07-03\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.runtimeconfig.dev.json
+C:\Users\Clarify_Bnu06\Desktop\Darlan-C#\07-03\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.dll
+C:\Users\Clarify_Bnu06\Desktop\Darlan-C#\07-03\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.pdb
+C:\Users\Clarify_Bnu06\Desktop\Darlan-C#\07-03\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.csprojAssemblyReference.cache
+C:\Users\Clarify_Bnu06\Desktop\Darlan-C#\07-03\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.AssemblyInfoInputs.cache
+C:\Users\Clarify_Bnu06\Desktop\Darlan-C#\07-03\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.AssemblyInfo.cs
+C:\Users\Clarify_Bnu06\Desktop\Darlan-C#\07-03\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.dll
+C:\Users\Clarify_Bnu06\Desktop\Darlan-C#\07-03\ExerciciosCondicionais\ExerciciosCondicionais\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.pdb

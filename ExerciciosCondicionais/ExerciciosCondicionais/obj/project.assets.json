@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\dcpof\\.nuget\\packages\\": {}
+    "C:\\Users\\Clarify_Bnu06\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SISTEMAS\\C#\\Apex\\ExerciciosCondicionais\\ExerciciosCondicionais\\ExerciciosCondicionais\\ExerciciosCondicionais.csproj",
+      "projectUniqueName": "C:\\Users\\Clarify_Bnu06\\Desktop\\Darlan-C#\\07-03\\ExerciciosCondicionais\\ExerciciosCondicionais\\ExerciciosCondicionais\\ExerciciosCondicionais.csproj",
       "projectName": "ExerciciosCondicionais",
-      "projectPath": "D:\\SISTEMAS\\C#\\Apex\\ExerciciosCondicionais\\ExerciciosCondicionais\\ExerciciosCondicionais\\ExerciciosCondicionais.csproj",
-      "packagesPath": "C:\\Users\\dcpof\\.nuget\\packages\\",
-      "outputPath": "D:\\SISTEMAS\\C#\\Apex\\ExerciciosCondicionais\\ExerciciosCondicionais\\ExerciciosCondicionais\\obj\\",
+      "projectPath": "C:\\Users\\Clarify_Bnu06\\Desktop\\Darlan-C#\\07-03\\ExerciciosCondicionais\\ExerciciosCondicionais\\ExerciciosCondicionais\\ExerciciosCondicionais.csproj",
+      "packagesPath": "C:\\Users\\Clarify_Bnu06\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Clarify_Bnu06\\Desktop\\Darlan-C#\\07-03\\ExerciciosCondicionais\\ExerciciosCondicionais\\ExerciciosCondicionais\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\dcpof\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Clarify_Bnu06\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

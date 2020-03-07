@@ -21,7 +21,12 @@ namespace ExerciciosCondicionais
             Console.WriteLine("*********");
             Console.WriteLine();
 
-            Console.Write("Quem ganhou a Copa do Mundo de 2014: Brasil, Alemanha, Italia ou França ? ");
+            Console.WriteLine("Quem ganhou a Copa do Mundo de 2014");
+            Console.WriteLine("Brasil");
+            Console.WriteLine("Alemanha");
+            Console.WriteLine("Italia");
+            Console.WriteLine("França");
+            Console.WriteLine();
             string resposta = Console.ReadLine().ToUpper();
 
             CopaDoMundo(resposta);
@@ -31,7 +36,7 @@ namespace ExerciciosCondicionais
 
             //pegar o peso
             Console.Write("Informe o Peso: ");
-            if (!float.TryParse(Console.ReadLine(), out float peso))
+            if (!double.TryParse(Console.ReadLine(), out double peso))
             {
                 Console.WriteLine("Peso inválido");
                 return;
@@ -40,7 +45,7 @@ namespace ExerciciosCondicionais
             //pegar a altura
             Console.Write("Informe a Altura: ");
             //decimal altura = Convert.ToDecimal(Console.ReadLine());
-            if (!float.TryParse(Console.ReadLine(), out float altura))
+            if (!double.TryParse(Console.ReadLine(), out double altura))
             {
                 Console.WriteLine("Altura inválida");
                 return;
@@ -50,21 +55,48 @@ namespace ExerciciosCondicionais
 
         }
 
-        private static void CalcularIMC(float peso, float altura)
+        private static void CalcularIMC(double peso, double altura)
         {
             Console.WriteLine();
             Console.WriteLine("CALCULANDO O I.M.C.: ");
             Console.WriteLine();
 
             //calcular o IMC
-            var imc = peso / (altura * altura);
+            var imc = peso / Math.Pow(2, altura); //(altura * altura);
+
+            string classificacao = "";
+            if (imc < 18.5)
+            {
+                classificacao = "Baixo peso";
+            }
+            else if (imc >= 18.5 && imc <= 24.9)
+            {
+                classificacao = "Peso normal";
+            }
+            else if (imc >= 25 && imc <= 29.9)
+            {
+                classificacao = "Excesso de peso";
+            }
+            else if (imc >= 30 && imc <= 34.9)
+            {
+                classificacao = "Obesidade de classe I";
+            }
+            else if (imc >= 35 && imc <= 39.9)
+            {
+                classificacao = "Obesidade de classe II";
+            }
+            else
+            {
+                classificacao = "Obesidade de classe III";
+            }
 
             Console.WriteLine();
             Console.WriteLine("CALCULANDO O I.M.C. COM IF/ELSE ");
 
-            Console.Write("Seu I.M.C. é: " + Math.Round(imc, 2));
+            Console.Write("Seu I.M.C. é: " + Math.Round(imc, 2) +", e sua classificação é: "+ classificacao);
             Console.WriteLine("");
 
+            /*
             if (imc < 18.5)
             {
                 Console.WriteLine("Baixo peso");
@@ -85,24 +117,36 @@ namespace ExerciciosCondicionais
             {
                 Console.WriteLine("Obesidade de classe 2");
             }
-            else 
+            else
             {
                 Console.WriteLine("Obesidade de classe 3");
             }
+            */
 
             Console.WriteLine();
             Console.WriteLine("CALCULANDO O I.M.C. COM SWITCH ");
 
-            /*
             switch (imc)
             {
-                case < 1:
-                    Console.WriteLine("teste");
+                case double n when (n < 18.5):
+                    Console.WriteLine("Baixo peso");
+                    break;
+                case double n when (n >= 18.5 && n <= 24.9):
+                    Console.WriteLine("Peso normal");
+                    break;
+                case double n when (n >= 25 && n <= 29.9):
+                    Console.WriteLine("Excesso de peso");
+                    break;
+                case double n when (imc >= 30 && imc <= 34.9):
+                    Console.WriteLine("Obesidade de classe I");
+                    break;
+                case double n when (imc >= 35 && imc <= 39.9):
+                    Console.WriteLine("Obesidade de classe II");
                     break;
                 default:
-                    Console.WriteLine("teste2");
+                    Console.WriteLine("Obesidade de classe III");
                     break;
-            } */
+            } 
         }
 
         private static void CopaDoMundo(string resposta)
